@@ -8,7 +8,7 @@ mpl.rc('xtick', color = 'w')
 mpl.rc('ytick', color = 'w')
 mpl.rc('text', color = 'w')
 mpl.rc('figure', facecolor = 'k', edgecolor ='w')
-mpl.rc('axes', color_cycle = ('w', '.5', '.75'))
+#mpl.rc('axes', color_cycle = ('w', '.5', '.75'))
 mpl.rc('savefig', facecolor = 'k', edgecolor = 'w')
 X = numpy.linspace(0, 7, 1024)
 

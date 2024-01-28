@@ -8,6 +8,6 @@ B = numpy.random.standard_normal((100, 2))
 B += numpy.array((1, 1))
 
 plot.scatter(B[:,0], B[:,1], c = 'k', s = 100.)
-plot.scatter(A[:,0], A[:,1], c = 'w', s = 25.)
+plot.scatter(A[:,0], A[:,1], c = 'b', s = 25.)
 
 plot.show()

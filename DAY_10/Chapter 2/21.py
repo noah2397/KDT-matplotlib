@@ -7,5 +7,6 @@ Y2 = numpy.sinc(X) + 1
 
 plot.plot(X, Y1, marker = 'o', color = '.75')
 plot.plot(X, Y2, marker = 'o', color = 'k', markevery = 32)
+#makeevery : 모든 점들에 대해 표식 적용
 
 plot.show()
