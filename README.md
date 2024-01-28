@@ -7,9 +7,9 @@
 
 ### KDT(Korea Digital Training)-matplotlib(맷플롭릿)
 
-교재 : 모두의 데이터분석 with 파이썬(길벗, 송석리, 이현아 지음)   
-[교재 사이트](http://www.acornpub.co.kr/book/matplotlib) 
-<img src="http://www.acornpub.co.kr/tb/detail/book/fj/gh/1630951273IC8sMzKN.jpg" width=300, height=420>
+교재 : 모두의 데이터분석 with 파이썬(길벗, 송석리, 이현아 지음)      
+[교재 사이트](http://www.acornpub.co.kr/book/matplotlib)    
+<img src="http://www.acornpub.co.kr/tb/detail/book/fj/gh/1630951273IC8sMzKN.jpg" width=300, height=420>   
 
 
 
