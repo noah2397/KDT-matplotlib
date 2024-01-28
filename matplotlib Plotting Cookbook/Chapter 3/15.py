@@ -10,3 +10,4 @@ plot.gca().add_patch(plot.Polygon(points, closed=None, fill=None, lw = 3., ls = 
 plot.grid(True)
 plot.axis('scaled')
 plot.show()
+

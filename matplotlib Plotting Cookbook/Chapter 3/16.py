@@ -6,9 +6,10 @@ X = numpy.linspace(-15, 15, 1024)
 Y = numpy.sinc(X)
 
 ax = plot.axes()
+# x축의 눈금 사이 간격 조작
 ax.xaxis.set_major_locator(ticker.MultipleLocator(5))
 ax.xaxis.set_minor_locator(ticker.MultipleLocator(1))
 
-#plot.grid(True, which='both')
+plot.grid(True, which='both')
 plot.plot(X, Y, c = 'k')
 plot.show()

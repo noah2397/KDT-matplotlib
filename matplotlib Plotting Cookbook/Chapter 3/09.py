@@ -10,6 +10,6 @@ plot.xlabel('Y')
 
 plot.plot(X, Y1, c = 'k',             lw = 3., label = 'sin(X)')
 plot.plot(X, Y2, c = '.5', ls = '--', lw = 3., label = 'cos(X)')
-
+plot.legend(draggable=True)
 plot.legend()
 plot.show()

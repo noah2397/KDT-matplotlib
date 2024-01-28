@@ -4,6 +4,7 @@ import matplotlib.pyplot as plot
 X = numpy.linspace(-6, 6, 1024)
 Y1, Y2 = numpy.sinc(X), numpy.cos(X)
 
+# figure을 사용하여 크기 제어도 가능!
 fig = plot.figure(figsize=(10.24, 2.56))
 
 #plot.ylim(-0.5 * numpy.pi, 0.5 * numpy.pi)
